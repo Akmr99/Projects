@@ -1,6 +1,6 @@
 # SQL Query Collection for Music Store Database
 
-![Music Store](https://github.com/Akmr99/SQL_Music_Store_Analysis/blob/main/music.jpg?raw=true)
+![Music Store](https://github.com/Akmr99/Projects/blob/main/SQL/Music%20Store%20Analysis/music.jpg?raw=true)
 
 This repository contains SQL queries designed to analyze a music store database. The queries are categorized into three difficulty levels: Easy, Moderate, and Advanced.
 
