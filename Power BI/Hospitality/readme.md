@@ -1,6 +1,6 @@
 # 🏨 Hospitality Analytics Dashboard  
 
-![Netflix](https://github.com/Akmr99/Hospitality-Project/blob/main/hotel-1330834_640.jpg?raw=true)
+![Netflix](https://raw.githubusercontent.com/Akmr99/Projects/refs/heads/main/Power%20BI/Hospitality/hotel.jfif)
 
 ## 📌 Overview  
 The **Hospitality Analytics Dashboard** is a **data-driven business intelligence solution** designed for the **hospitality industry**. It enables hotels to track key performance indicators (KPIs) on a **week-on-week (WoW) basis** using **Power BI**. This dashboard provides valuable insights to **improve revenue, optimize occupancy rates, and enhance overall business efficiency**.
